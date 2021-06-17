@@ -7,3 +7,6 @@
 [build]
   command = "hugo"
   publish = "public"
+
+[[plugins]]
+package = "/plugins/netlify-sanity-md"

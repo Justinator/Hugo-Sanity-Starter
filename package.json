@@ -1,0 +1,25 @@
+{
+  "name": "Hugo-Sanity-Starter",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # hugo-sanity-starter-tut\r A barebones repo of a Hugo site and a Sanity studio. For following along with a tutorial on [Sanity.io](https://sanity.io).\r =======\r # Hugo-Sanity-Starter\r >>>>>>> 64e41d78fee524389240afe21a28469572160b17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinator/Hugo-Sanity-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justinator/Hugo-Sanity-Starter/issues"
+  },
+  "homepage": "https://github.com/Justinator/Hugo-Sanity-Starter#readme",
+  "dependencies": {
+    "@sanity/block-content-to-markdown": "0.0.5",
+    "@sanity/client": "^2.11.0",
+    "fs-extra": "^10.0.0"
+  }
+}
